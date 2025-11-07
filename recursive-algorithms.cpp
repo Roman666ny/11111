@@ -13,6 +13,7 @@ int sum_of_digits(int n) {
 int main() {
     int num = 12345;
     cout << "Сумма цифр числа " << num << " = " << sum_of_digits(num) << endl;
+    
     // Вывод: Сумма цифр числа 12345 = 15
     return 0;
 }
