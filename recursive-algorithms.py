@@ -8,4 +8,5 @@ def sum_of_digits(n):
 # Тестирование
 num = 12345
 print(f"Сумма цифр числа {num} = {sum_of_digits(num)}")
+
 # Вывод: Сумма цифр числа 12345 = 15
