@@ -11,5 +11,7 @@ public class SumOfDigits {
     public static void main(String[] args) {
         int num = 12345;
         System.out.println("Сумма цифр числа " + num + " = " + sumOfDigits(num));
+        
+        // Вывод: Сумма цифр числа 12345 = 15
     }
 }
